@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Holiday.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c63845a1bf383a52585ebd03f7a9cf56bd890881")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0623b372979cb2efa93a6d3de5e74deda99b6efc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Holiday.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Holiday.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
