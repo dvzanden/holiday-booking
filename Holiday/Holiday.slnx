@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="HolidayWeb/HolidayWeb.csproj" />
+  <Project Path="Holiday.Application/Holiday.Application.csproj" Id="5f843cee-c6d7-46f1-82ef-f740cde56923" />
+  <Project Path="Holiday.Domain/Holiday.Domain.csproj" Id="d84184e3-58f3-472c-aaaa-1b2c80bd1a37" />
+  <Project Path="Holiday.Infrastructure/Holiday.Infrastructure.csproj" Id="111a4765-a572-4c77-9332-c10aa81c7721" />
+  <Project Path="HolidayWeb/Holiday.Web.csproj" />
 </Solution>
