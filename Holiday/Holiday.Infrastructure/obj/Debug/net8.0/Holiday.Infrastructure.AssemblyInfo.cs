@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Holiday.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0623b372979cb2efa93a6d3de5e74deda99b6efc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5adab27be03d253534774c3bab4ba2b6caf99bde")]
 [assembly: System.Reflection.AssemblyProductAttribute("Holiday.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Holiday.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
